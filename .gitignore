@@ -1,0 +1,33 @@
+# Target directory (Maven)
+target/
+
+# Gradle build directories
+.gradle/
+build/
+
+# IDE Settings (IntelliJ IDEA)
+.idea/
+*.iml
+*.iws
+
+# IDE Settings (Eclipse)
+.classpath
+.project
+.settings/
+.factorypath
+
+# IDE Settings (NetBeans)
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables / Secrets
+.env
